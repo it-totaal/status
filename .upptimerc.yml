@@ -13,6 +13,7 @@ status-website:
   cname: status.argusbackup.io
   name: Status
   logoUrl: https://argusbackup.io/img/wordmark-status.png
+  faviconSvg: https://argusbackup.io/img/favicon.svg
   introTitle: "**Argus Backup** — live status"
   introMessage: Independent, external uptime monitoring of the Argus Backup platform, measured every 5 minutes from GitHub's infrastructure.
   navbar:
