@@ -1,7 +1,5 @@
 # Upptime-config voor de Argus Backup-statuspagina.
 # Externe meting via GitHub Actions (elke 5 min), site via GitHub Pages.
-# Custom domein (status.argusbackup.io) volgt zodra de DNS-CNAME staat:
-# dan hier `cname: status.argusbackup.io` zetten en baseUrl weghalen.
 owner: it-totaal
 repo: status
 
@@ -12,7 +10,7 @@ sites:
     url: https://demo.argusbackup.io
 
 status-website:
-  baseUrl: /status
+  cname: status.argusbackup.io
   name: Argus Backup Status
   logoUrl: https://argusbackup.io/img/favicon.svg
   introTitle: "**Argus Backup** — live status"
