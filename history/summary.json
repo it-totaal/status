@@ -4,25 +4,27 @@
     "url": "https://argusbackup.io",
     "icon": "https://icons.duckduckgo.com/ip3/argusbackup.io.ico",
     "slug": "website-argusbackup-io",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 661,
     "timeDay": 600,
     "timeWeek": 658,
     "timeMonth": 662,
     "timeYear": 661,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-12": 5
+    }
   },
   {
     "name": "Demo environment",
     "url": "https://demo.argusbackup.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.argusbackup.io.ico",
     "slug": "demo-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 1220,
     "timeMonth": 1240,
     "timeYear": 1235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-12": 0
+    }
   }
 ]
