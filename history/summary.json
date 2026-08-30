@@ -11,9 +11,9 @@
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.55%",
     "time": 664,
-    "timeDay": 695,
-    "timeWeek": 695,
-    "timeMonth": 666,
+    "timeDay": 642,
+    "timeWeek": 680,
+    "timeMonth": 669,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2026-08-12": 328
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.argusbackup.io.ico",
     "slug": "demo-environment",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.55%",
-    "time": 1256,
-    "timeDay": 1266,
-    "timeWeek": 1225,
-    "timeMonth": 1274,
-    "timeYear": 1256,
+    "uptimeYear": "99.56%",
+    "time": 1255,
+    "timeDay": 1210,
+    "timeWeek": 1202,
+    "timeMonth": 1277,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2026-08-12": 323
     }
