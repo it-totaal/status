@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/argusbackup.io.ico",
     "slug": "website-argusbackup-io",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 664,
     "timeDay": 0,
-    "timeWeek": 670,
-    "timeMonth": 668,
+    "timeWeek": 697,
+    "timeMonth": 666,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2026-08-12": 328
@@ -32,8 +32,8 @@
     "uptimeYear": "99.61%",
     "time": 1258,
     "timeDay": 0,
-    "timeWeek": 1317,
-    "timeMonth": 1281,
+    "timeWeek": 1424,
+    "timeMonth": 1280,
     "timeYear": 1258,
     "dailyMinutesDown": {
       "2026-08-12": 323
