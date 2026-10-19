@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/argusbackup.io.ico",
     "slug": "website-argusbackup-io",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.64%",
+    "uptimeDay": "85.96%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.64%",
     "time": 737,
     "timeDay": 752,
     "timeWeek": 994,
@@ -17,7 +17,7 @@
     "timeYear": 737,
     "dailyMinutesDown": {
       "2026-08-12": 328,
-      "2026-10-19": 5
+      "2026-10-19": 202
     }
   },
   {
@@ -25,20 +25,20 @@
     "url": "https://demo.argusbackup.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.argusbackup.io.ico",
     "slug": "demo-environment",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 1399,
-    "timeDay": 1315,
-    "timeWeek": 1833,
-    "timeMonth": 1796,
-    "timeYear": 1399,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "86.30%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.64%",
+    "time": 1393,
+    "timeDay": 1112,
+    "timeWeek": 1717,
+    "timeMonth": 1756,
+    "timeYear": 1393,
     "dailyMinutesDown": {
       "2026-08-12": 323,
-      "2026-10-19": 0
+      "2026-10-19": 197
     }
   }
 ]
