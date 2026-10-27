@@ -4,11 +4,11 @@
     "url": "https://argusbackup.io",
     "icon": "https://icons.duckduckgo.com/ip3/argusbackup.io.ico",
     "slug": "website-argusbackup-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.55%",
     "time": 944,
     "timeDay": 591,
@@ -19,7 +19,7 @@
       "2026-08-12": 328,
       "2026-10-19": 202,
       "2026-10-25": 171,
-      "2026-10-27": 9
+      "2026-10-27": 5
     }
   },
   {
@@ -27,12 +27,12 @@
     "url": "https://demo.argusbackup.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.argusbackup.io.ico",
     "slug": "demo-environment",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.17%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1379,
     "timeDay": 1427,
     "timeWeek": 1247,
@@ -41,7 +41,8 @@
     "dailyMinutesDown": {
       "2026-08-12": 323,
       "2026-10-19": 197,
-      "2026-10-25": 166
+      "2026-10-25": 166,
+      "2026-10-27": 0
     }
   }
 ]
